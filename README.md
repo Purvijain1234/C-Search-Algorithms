@@ -9,7 +9,7 @@ This repository contains simple implementations of **Linear Search** and **Binar
 gcc linear_search.c -o linear_search
 gcc binary_search.c -o binary_search
 
-#3 Run:
+## Run:
 ./linear_search
 ./binary_search
 
