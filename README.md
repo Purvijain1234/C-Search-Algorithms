@@ -14,7 +14,9 @@ This repository contains simple C programs implementing two basic search algorit
 ## 📂 **Project Structure**
 
 📂 C-Search-Algorithms
+
 ┣ 📜 linear_search.c
+
 ┗ 📜 binary_search.c
 
 ---
