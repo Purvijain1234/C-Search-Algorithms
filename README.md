@@ -7,10 +7,12 @@ This repository contains simple implementations of **Linear Search** and **Binar
 
 ## Compile the C files:
 gcc linear_search.c -o linear_search
+
 gcc binary_search.c -o binary_search
 
 ## Run:
 ./linear_search
+
 ./binary_search
 
 ## About the Algorithms
